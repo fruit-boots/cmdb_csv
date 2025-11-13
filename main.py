@@ -23,7 +23,7 @@ import json
 #######################
 
 LOGGER = "cmdb"
-ZOOM_CALENDAR_ID = "zsoo74h8Tk2wHdRlVj_rdw"
+ZOOM_CALENDAR_ID = "8_y8tfAPSHqofSOOaaTDSQ"
 IGNORED_ZOOM_LOCATIONS = ["oBQf0J2ETLqXyOxHtoyWWw", "_rOFKHgiSDqDI9i-1osy9A"]
 CMDB_SCHEMA = {
     "room_name": "",
